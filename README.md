@@ -50,6 +50,7 @@ Check out the working app live at: **https://task-manager-react-basic-o1l8gcuf1-
    npm install
    ```
    3. Run the app locally:
-    ```bash
-    npm run dev
-    ```
+
+```bash
+npm run dev
+
