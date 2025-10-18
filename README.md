@@ -8,7 +8,7 @@ Easily create, update, delete, and manage your tasks in a clean, user-friendly i
 
 ## 🚀 Live Demo
 
-Check out the working app live at: **https://task-manager-react-basic-o1l8gcuf1-darkfalcons-projects.vercel.app/**
+Check out the working app live at: **[https://task-manager-react-basic-o1l8gcuf1-darkfalcons-projects.vercel.app/](https://task-manager-react-basic.vercel.app/)**
 
 ---
 
